@@ -1,8 +1,7 @@
 #include <stdio.h>
 /**
-     * main - main block
-     *  of the code with return value of 0
-     *   */
+ * main - main block of the code 
+ * Return: 0   */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
