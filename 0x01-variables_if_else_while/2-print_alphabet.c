@@ -2,8 +2,9 @@
 #include <stdlib.h>
 /**
  * main - main block
- * Description: program that prints the alphabet in lowercase * Return: 0
- * */
+ * Description: program that prints the alphabet in lowercase 
+ * Return: 0
+ */
 int main(void)
 {
 		char c = 'a';
