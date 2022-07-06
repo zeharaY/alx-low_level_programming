@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * * main - check the code.
- * *
- * * Return: Always 0.
- * */
+ * _isalpha - check the code.
+ * @C : the parameter
+ *
+ * Return: Always 0.
+ */
 
 int _isalpha(int c)
 {
