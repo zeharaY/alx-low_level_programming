@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * print_times_table - check the code.
- * @n : parameter
+ * @c : parameter
  *
  * Return: Always 0.
  */
