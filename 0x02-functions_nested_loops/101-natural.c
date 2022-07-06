@@ -2,7 +2,6 @@
 
 /**
  * main - sums 3-5_cous - Entry point
- * 
  * Return:  (0)
  */
 
