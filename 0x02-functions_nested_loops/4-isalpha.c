@@ -2,7 +2,7 @@
 
 /**
  * _isalpha - check the code.
- * @C : the parameter
+ * @c : the parameter
  *
  * Return: Always 0.
  */
