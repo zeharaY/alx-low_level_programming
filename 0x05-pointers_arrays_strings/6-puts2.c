@@ -3,8 +3,9 @@
 /**
  * puts2 - prints one char out of 2
  * @str: type
+ *
+ * Return: no return
  */
-
 void puts2(char *str)
 
 {
