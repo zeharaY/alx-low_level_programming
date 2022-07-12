@@ -3,7 +3,8 @@
 /**
  * print_array - print n of int array
  * @a: pointer
- * @n: n*/
+ * @n: n
+ */
 
 void print_array(int *a, int n)
 
@@ -14,6 +15,7 @@ void print_array(int *a, int n)
 
 	{
 		printf("%d", a[c++]);
+
 		if (n != 0)
 			printf(", ");
 	}
