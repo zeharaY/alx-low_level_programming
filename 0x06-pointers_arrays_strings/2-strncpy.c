@@ -5,6 +5,7 @@
  * @dest : pointer to char params
  * @src : pointer to char params
  * @n : int params
+ *
  * Return: *dest
  */
 
