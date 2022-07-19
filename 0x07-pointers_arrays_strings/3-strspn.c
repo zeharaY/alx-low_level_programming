@@ -2,6 +2,8 @@
  * _strspn - Gets the length of a prefix substring.
  * @s: String where substring will look.
  * @accept: chars to be checked/substring.
+ *
+ * Return : returns integer
  */
 
 unsigned int _strspn(char *s, char *accept)
