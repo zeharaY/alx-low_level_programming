@@ -10,7 +10,8 @@
 char **strtow(char *str)
 
 {
-	int i = 0, j = 0, k = 0, len = 0, count = 0;
+	int i = 0, j = 0, k = 0;
+	int len = 0, count = 0;
 	char **f, *col;
 
 	if (!str || !*str)
@@ -29,6 +30,7 @@ char **strtow(char *str)
 			{
 				count += 1;
 			}
+
 		}
 		i++;
 	}
@@ -87,6 +89,6 @@ char **strtow(char *str)
 		}
 	}
 	*(f + j) = NULL;
-	
+
 	return (f);
-} 
+}
