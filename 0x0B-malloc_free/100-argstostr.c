@@ -22,7 +22,13 @@ int _strlen(char *s)
 	return (l);
 }
 
-/**argstostr - concat@ac: count@av: vectorReturn: string*/
+/**
+ * argstostr - concat
+ * @ac: count
+ * @av: vector
+ *
+ * Return: string
+ */
 
 char *argstostr(int ac, char **av)
 
