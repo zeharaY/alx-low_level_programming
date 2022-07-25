@@ -23,8 +23,7 @@ int _strlen(char *s)
 }
 
 /**
- * argstostr - concat
- * @ac: count
+ * argstostr - concatac: count
  * @av: vector
  *
  * Return: string
@@ -59,7 +58,6 @@ char *argstostr(int ac, char **av)
 
 	{
 		len = _strlen(av[i]);
-
 		for (j = 0; j < len; j++, k++)
 
 		{
