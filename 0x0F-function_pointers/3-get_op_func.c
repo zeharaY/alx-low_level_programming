@@ -6,6 +6,7 @@
 /**
  * get_op_func - get an operation
  * @s: operator
+ *
  * Return: No
  */
 
